@@ -346,7 +346,7 @@ function App() {
       <div className="max-w-7xl mx-auto">
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-white mb-2">
-            Aduan Charakterverwaltungs-Assistent
+            Player Character Management Assistant
           </h1>
           <p className="text-gray-400">
             Pen-&-Paper Charakterverwaltung • Prototyp/MVP
